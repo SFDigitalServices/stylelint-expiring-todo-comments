@@ -10,7 +10,7 @@
     "lint": "eslint *.js"
   },
   "dependencies": {
-    "semver": "7.3.7"
+    "semver": "7.5.2"
   },
   "devDependencies": {
     "eslint": "^8.27.0",
